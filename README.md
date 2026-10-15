@@ -28,13 +28,13 @@ I designed and programmed this application in 2019. It is published here in 2026
 
 ## Technology
 
-Microsoft Access 2000–2003 format (.mdb), VBA.
+db, 2000–2003 format (.mdb), VBA.
 
 ## Repository contents
 
 | Path | Content |
 |---|---|
-| `database/` | The Access application, emptied of all data. |
+| `database/` | The database application, emptied of all data. |
 | `source/` | Plain-text export (UTF-8) of forms, reports, macros, VBA modules (`SaveAsText`) and of the SQL of every query. |
 | `docs/schema.md` | Tables and fields. |
 
@@ -44,8 +44,8 @@ The database is published **empty**: every table has been emptied and the file c
 
 ## Related repositories
 
-- [unaccompanied-minors-monitoring-access](https://github.com/massimosbarbaro/unaccompanied-minors-monitoring-access)
-- [minors-reception-register-access](https://github.com/massimosbarbaro/minors-reception-register-access)
+- [unaccompanied-minors-monitoring-db](https://github.com/massimosbarbaro/unaccompanied-minors-monitoring-db)
+- [minors-reception-register-db](https://github.com/massimosbarbaro/minors-reception-register-db)
 
 ## How to cite
 

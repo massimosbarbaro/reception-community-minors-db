@@ -10,9 +10,9 @@ authors:
     orcid: "https://orcid.org/0009-0006-8965-9013"
 license: MIT
 doi: "10.5281/zenodo.23205214"
-repository-code: "https://github.com/massimosbarbaro/reception-community-minors-access"
+repository-code: "https://github.com/massimosbarbaro/reception-community-minors-db"
 keywords:
-  - "Microsoft Access"
+  - "db"
   - "social services"
   - "child protection"
   - "unaccompanied minors"
